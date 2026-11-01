@@ -42,7 +42,7 @@ A DIY alarm clock built around a **XIAO ESP32-C3**, a **1.9" ST7789 SPI display*
 | 11 | 3D-printed case: `Bottom.step`, `Top.step` | 2 | |
 
 ## Repository layout
-- `CAD/` – full assembly (PCB + case + display) as a single STEP (`Clock_Assembly.zip`, zipped because of GitHub's web upload limit)
+- `CAD/` – full assembly (PCB + case + display) as a single STEP
 - `PCB/` – KiCad project files
 - `Firmware/` – Arduino sketch
 - `Production/` – `gerbers.zip` and the case parts
