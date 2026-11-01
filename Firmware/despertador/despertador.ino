@@ -298,7 +298,7 @@ void setup() {
   alH = prefs.getUChar("h", 7); alM = prefs.getUChar("m", 0);
   alSound = prefs.getUChar("snd", 0) % N_MEL; alOn = prefs.getBool("on", false);
 
-  setenv("TZ", "<-05>5", 1); tzset();         // Colombia UTC-5 (no afecta: no usamos WiFi)
+  setenv("TZ", "<-05>5", 1); tzset();         
   render();
 }
 
