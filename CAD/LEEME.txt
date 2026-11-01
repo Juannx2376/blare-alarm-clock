@@ -1,3 +1,0 @@
-CAD: CAD/Clock_Assembly.zip contiene el ensamble completo en STEP (comprimido por el límite de 25 MB de GitHub web)
-
-CAD: CAD/Clock_Assembly.zip contains the complete assembly in STEP format (compressed due to the 25 MB limit on the GitHub web interface).
