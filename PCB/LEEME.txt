@@ -1,0 +1,4 @@
+abc.kicad_pro / .kicad_sch / .kicad_pcb  = proyecto KiCad.
+Copia tambien tu carpeta "3dmodels" (mxstp.stp y Seeed Studio XIAO-ESP32-C3.step) junto a estos archivos
+para que el visor 3D encuentre los modelos (se referencian con ${KIPRJMOD}/3dmodels/...).
+Interruptores: offset Z = 5.8 mm en el modelo 3D (el modelo viene hundido).

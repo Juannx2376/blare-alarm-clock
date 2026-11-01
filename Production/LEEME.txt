@@ -1,0 +1,4 @@
+gerbers.zip : capas de cobre, mascara, pasta, serigrafia y Edge_Cuts + job.gbrjob.
+FALTAN los archivos de taladro (.drl). En KiCad: Archivo > Fabricacion > Archivos de taladro... (Excellon) -> Generar,
+y anade los .drl a gerbers.zip antes de enviar.
+Top.step / Bottom.step : piezas de la caja para imprimir en 3D.
